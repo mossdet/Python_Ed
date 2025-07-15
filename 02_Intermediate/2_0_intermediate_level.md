@@ -1,6 +1,4 @@
-# Python Learning Guide: From Beginner to Super-Advanced
-
-This comprehensive guide will take you through the journey of learning Python, from your first "Hello, World!" to mastering advanced concepts and contributing to open-source projects.
+# Python Learning Guide: Intermediate
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
